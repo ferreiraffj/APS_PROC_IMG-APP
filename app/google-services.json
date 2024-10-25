@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007997906600",
+    "project_id": "mma-app-aa7d1",
+    "storage_bucket": "mma-app-aa7d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007997906600:android:ba8cd145a6b44d94d79c9d",
+        "android_client_info": {
+          "package_name": "com.example.ministeriodomeioambienteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY703b6kvkHiOaJBAgYb9fueXyeCDAa1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MinisterioDoMeioAmbienteApp</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Clique para entrar</string>
+    <string name="click_to_register">Clique para se registrar</string>
+    <string name="logout">Sair</string>
+</resources>
