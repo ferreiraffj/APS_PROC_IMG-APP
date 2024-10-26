@@ -7,4 +7,5 @@
     <string name="click_to_login">Clique para entrar</string>
     <string name="click_to_register">Clique para se registrar</string>
     <string name="logout">Sair</string>
+    <string name="login_com_biometria">Login com Biometria</string>
 </resources>

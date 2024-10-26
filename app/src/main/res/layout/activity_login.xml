@@ -54,6 +54,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
+    <!-- Botão para autenticação biométrica -->
+    <Button
+        android:id="@+id/btn_biometric_login"
+        android:text="@string/login_com_biometria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
     <TextView
         android:textStyle="bold"
         android:textSize="15sp"
